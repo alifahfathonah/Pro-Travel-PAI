@@ -1,0 +1,77 @@
+0. Login Menggunakan Package myth-auth : reset password egovaflavia@gmail.com / Egova Riva Gustino
+
+1. CAR RENTAL FOR TOURS AND EDUCATION 
+    nama mobil
+    harga
+    jam per hari
+    max penumpang
+    transmisi 
+    full acc 
+    no smoking
+    driver 1
+    fuel 1
+    foto
+
+2. EPIC PLEASURE FOR REGULAR TOURS
+    ==========================================================================================================
+    Akan ada table relugar 
+        relugar_kode
+        relugar_nama_paket
+        relugar_include
+        relugar_exclude
+        relugar_rute
+        relugar_trip_array
+        relugar_harga
+        relugar_desc
+    Akan ada table trip
+        trip_id
+        trip_nama
+        trip_deskripsi
+    Carikan tabel unutk ini
+        relugar_Meeting Point:
+    ==========================================================================================================
+    2D1N
+        2D1N (Airport or Padang-Bukittinggi-Batusangkar-Padang or Airport)
+        2D1N (Airport or Padang-Bukittinggi-Payakumbuh-Padang or Airport)
+    3D2N
+        3D2N (Airport or Padang-Bukittinggi-Payakumbuh-Batusangkar-Padang or Airport)
+        3D2N (Airport or Padang-Solok-Sawahlunto-Batusangkar-Bukittinggi-Padang or Airport)
+    4D3N
+        4D3N (Airport or Padang-Puncak Lawang-Bukittinggi-Batusangkar-Padang City Tour-Padang or Airport)
+        4D3N (Airport or Padang-Puncak Lawang-Bukittinggi-Payakumbuh-Batusangkar-Padang or Airport)
+    5D4N
+        5D4N (Airport or Padang-Puncak Lawang-Bukittinggi-Payakumbuh-Batusangkar-Mandeh-Padang Tour City-Airport)
+
+3. SPECIAL TOURS FOR INSPIRED ADVENTURE
+    Island
+        Mandeh + Padang City Tours 2D1N ( 2 Day 1 Night )
+        One Day Pleasure In Mandeh + Padang City Tours
+
+    Tracking
+
+4. Foto Mobil
+
+5. Foto Tours
+
+6. Profil
+    profil_id
+    profil_tentang
+    
+
+7. Contact
+    Website
+    Instagram
+    Facebook
+    Twitter
+    Youtube
+    Email
+    Alamat
+    rek_bri
+    rek_bni
+    rek_bca
+    no1
+    no2
+
+8. Guide
+
+
